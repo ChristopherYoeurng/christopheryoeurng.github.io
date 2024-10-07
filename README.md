@@ -1,1 +1,2 @@
-this is the website i made using the h4i starter pack
+# Chris's Personal Website
+This is a personal website built using the Hack4Impact Starter Pack!
